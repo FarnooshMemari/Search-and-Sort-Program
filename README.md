@@ -31,11 +31,3 @@ This project implements fundamental **sorting and searching algorithms** using b
 - Uses assertions to verify correctness.
 
 ---
-
-## **Installation & Setup**
-### **1. Set Up the Environment**
-```bash
-python -m venv .venv
-source .venv/bin/activate  # (Mac/Linux)
-.venv\Scripts\activate     # (Windows)
-pip install pytest
